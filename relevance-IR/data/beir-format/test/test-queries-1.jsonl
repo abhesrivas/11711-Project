@@ -1,0 +1,661 @@
+{"id": 1, "text": "user: My insurance ended so what should i do"}
+{"id": 2, "text": "user: I need to change my address."}
+{"id": 3, "text": "user: how do i pay dial in search account fees?"}
+{"id": 4, "text": "user: I need to know how to pay the dial-in search account fees."}
+{"id": 5, "text": "user: I'm enquiring about out of state insurance docs"}
+{"id": 6, "text": "user: Do I need insurance to register my vehicle? "}
+{"id": 7, "text": "user: Can you please tell me about the county use taxes and the supplemental fees?"}
+{"id": 8, "text": "user: How do the county taxes work? how are they used?"}
+{"id": 9, "text": "user: How do I surrender New York State plates to the DMV?"}
+{"id": 10, "text": "user: I'm looking to turn my plates into the DMV"}
+{"id": 11, "text": "user: Yeah, um, i'm looking for some help with a non-driver ID renewal."}
+{"id": 12, "text": "user: What do I need to know about renewing my ID card? "}
+{"id": 13, "text": "user: Hi How are you today? I was wondering how the refund amount is determined?"}
+{"id": 14, "text": "user: Is it possible to transfer any left over credit to another car?"}
+{"id": 15, "text": "user: What can I do to prepare for my road test?"}
+{"id": 16, "text": "user: What do I need to do before my road test"}
+{"id": 17, "text": "user: how to change address and mailing information"}
+{"id": 18, "text": "user: Dp I need a new eye exam to replace my license?"}
+{"id": 19, "text": "user: I have questions about self-certification"}
+{"id": 20, "text": "user: Where do I apply for escort driver certification?"}
+{"id": 21, "text": "user: What should I do if my vehicle is stolen?"}
+{"id": 22, "text": "user: What should I do if my vehicle is recovered?"}
+{"id": 23, "text": "user: I want to register a moped."}
+{"id": 24, "text": "user: How do I pay for additional test to take road test #1"}
+{"id": 25, "text": "user: What follows after passing the test?"}
+{"id": 26, "text": "user: what do i do if i receive a traffic ticket?"}
+{"id": 27, "text": "user: I got a traffic ticket, how do I pay it?"}
+{"id": 28, "text": "user: I need help getting a N.Y. License"}
+{"id": 29, "text": "user: Hello, is there a way to Change from a Class D to a Class E license"}
+{"id": 30, "text": "user: I have an ignition interlock device on my car but want to lend my car to my Mom to drive...what can I do to allow her to borrow my car?"}
+{"id": 31, "text": "user: How long will my current resitrction be in effect?"}
+{"id": 32, "text": "user: I am looking for information regarding removing a lienholder from my title certificate"}
+{"id": 33, "text": "user: Can you explain how to remove a lienholder from a title?"}
+{"id": 34, "text": "user: What are the registration fees and taxes?"}
+{"id": 35, "text": "user: I'm moving out of New York and I don't know what to do with my plates"}
+{"id": 36, "text": "user: I need refund information about cancelling an I-PIRP course."}
+{"id": 37, "text": "user: I want to trade in my license for a New York one"}
+{"id": 38, "text": "user: Tell me about on-site investigation, please"}
+{"id": 39, "text": "user: I have a problem with the repairs made on my vehicle at the auto repair shop."}
+{"id": 40, "text": "user: I have questions about the driving restrictions for people under 18."}
+{"id": 41, "text": "user: Am I required to notify DMV of my entry into the military? "}
+{"id": 42, "text": "user: Hi, I'm not currently in New York City. How do I get an extension, I need it"}
+{"id": 43, "text": "user: I bought my new car from a private seller."}
+{"id": 44, "text": "user: hi I need to replace the inspection tag"}
+{"id": 45, "text": "user: Hi, recently I moved to New York and registered my vehicle here, what about my inspection tag?"}
+{"id": 46, "text": "user: I moved to New York and registered my vehicle here. Do I need to do an inspection again?"}
+{"id": 47, "text": "user: Hello, I would like to know how to do the inspection if I bought a vehicle from a private seller"}
+{"id": 48, "text": "user: Hello, I would like to know how I do the inspections if I bought a vehicle from a private seller"}
+{"id": 49, "text": "user: I just moved to New York and registered my car here. I need help with understanding vehicle inspection rules."}
+{"id": 50, "text": "user: Give me some info about how to replace the inspection sticker"}
+{"id": 51, "text": "user: I need to get an extension so I don't get into problems when I'm away"}
+{"id": 52, "text": "user: I need personalized plate info"}
+{"id": 53, "text": "user: What can I do when my license is suspended because I forgot and let my insurance lapse?"}
+{"id": 54, "text": "user: How do I avoid an insurance lapse?"}
+{"id": 55, "text": "user: Hello I need information about What can cause an insurance lapse?"}
+{"id": 56, "text": "user: hello If my license is suspended for an insurance period, what can I do?"}
+{"id": 57, "text": "user: hello If my license is suspended for an insurance period, what can I do?"}
+{"id": 58, "text": "user: What is an insurance lapse in New York State?"}
+{"id": 59, "text": "user: Good afternoon. Need some information about avoiding an insurance lapse."}
+{"id": 60, "text": "user: I need some guidance on what to do if my license is suspended. I really have to rely on it for work."}
+{"id": 61, "text": "user: How is it possible to avoid an lapse in insurance?"}
+{"id": 62, "text": "user: Hi good morning, I'm having some insurance lapsing, Can you help me on that?"}
+{"id": 63, "text": "user: Hi, I got the news that the New York State DMV started issuing REAL ID licenses, permits, and ID cards on October 30, 2017. How do I get mine?"}
+{"id": 64, "text": "user: Yes I would like info on the cost of augmenting my driver's license."}
+{"id": 65, "text": "user: how Getting a REAL ID is mandatory but is encouraged?"}
+{"id": 66, "text": "user: How much does one have to pay for this REAL ID I've been hearing about?"}
+{"id": 67, "text": "user: Please, I need to know the cost for a REAL ID"}
+{"id": 68, "text": "user: Hello I need information about The New York State DMV began issuing REAL ID licenses, permits and ID cards on October 30, 2017"}
+{"id": 69, "text": "user: Hello I need information about whether the New York State DMV began issuing REAL ID licenses, permits and ID cards on October 30, 2017"}
+{"id": 70, "text": "user: I need to get a real ID to travel and want to know if it costs more than a regular ID"}
+{"id": 71, "text": "user: Is it now required by law to have a REAL ID?"}
+{"id": 72, "text": "user: I came here with a few questions a bout getting a REAL ID. It'd be great if you could answer them for me."}
+{"id": 73, "text": "user: I need to learn about my driver school instructor certificate."}
+{"id": 74, "text": "user: Hi, I would like to know if I have a driver's license from another country and I have a New York State learner's permit, can I drive without a supervising driver?"}
+{"id": 75, "text": "user: hello I need information about the issue of driver's licenses and Drivers from other countries"}
+{"id": 76, "text": "user:  If I have a driver license from another country and I have a NY State learner permit, can I drive without a supervising driver?"}
+{"id": 77, "text": "user: Hi, I have a question. If I have a driver's license from another country and I have a New York State learner's permit, can I drive without a supervising driver?"}
+{"id": 78, "text": "user: can you give me details of Drivers from other Countries\n"}
+{"id": 79, "text": "user: do I need someone else in the car if I have a Mexican license and a NY learners permit?"}
+{"id": 80, "text": "user: Can I drive without a supervising driver if I have a driver license from another country and have a NY State learner permit?"}
+{"id": 81, "text": "user: Hello there. I have a driver license from another country and a learner permit in NY. I wanted to know if I'm allowed to drive in NY, among other questions."}
+{"id": 82, "text": "user: Hello. I'm about to work in NY, but I originally come from abroad, and I do have some questions related to driving in NY."}
+{"id": 83, "text": "user: Hello there. I happen to own an Chinese driver license. Can you tell me if I can  use it to drive in NY without a supervising driver?"}
+{"id": 84, "text": "user: Hello there. Can you please tell me what a Snowmobile Club voucher ID is?"}
+{"id": 85, "text": "user: what are my options for a hearing on my toll problem?"}
+{"id": 86, "text": "user: I need an ID card instead of my license and want to pay SSI prices"}
+{"id": 87, "text": "user: How to Exchange a New York State Driver's License for a Non-Driver Identification Card"}
+{"id": 88, "text": "user: can you give me details of Proof of Supplemental Security Income\n"}
+{"id": 89, "text": "user: Hi there. I would like some help related to provide some information the security income, can you help me?"}
+{"id": 90, "text": "user: How do I provide proof of my SSI?"}
+{"id": 91, "text": "user: how Exchange a NY State driver license for a non-driver ID card?"}
+{"id": 92, "text": "user: how Exchange a NY State driver license for a non-driver ID card?"}
+{"id": 93, "text": "user: how Exchange a NY State driver license for a non-driver ID card?"}
+{"id": 94, "text": "user: Good morning. I want to change a expired learner permit for a non-driver ID, but i was told i was needing a proof of supplemental security income, whant can i do about that?"}
+{"id": 95, "text": "user: I need help with exchanging my New York driver license for a non-driver ID card."}
+{"id": 96, "text": "user: Hello, I would like to know what does \"TEMPORARY VISITOR\" mean?"}
+{"id": 97, "text": "user: If I have a driver license from another country and I have a NY State learner permit, can I drive without a supervising driver?"}
+{"id": 98, "text": "user: Hello I need information about Out-of-State Driver's License Exchange"}
+{"id": 99, "text": "user: Hello I need information about Out-of-State Driver's License Exchange"}
+{"id": 100, "text": "user: What does 'TEMPORARY VISITOR' mean?"}
+{"id": 101, "text": "user: What is a TEMPORARY VISITOR"}
+{"id": 102, "text": "user: Hello there. How are you doing today? I came here looking for advice on the exchange of my driver license. I'm coming from another state."}
+{"id": 103, "text": "user: If I have a driver license from another country and I have a NY State learner's permit, can I drive without a supervising driver? "}
+{"id": 104, "text": "user: I'm from another state and recently came to NY. Can you walk me through the process of exchanging my driver license?"}
+{"id": 105, "text": "user: Please, tell me a bout the meaning of 'TEMPORARY VISITOR'"}
+{"id": 106, "text": "user: Is there an additional fee to have icons added to my DMV photo document? "}
+{"id": 107, "text": "user: What is a suspension termination fee? "}
+{"id": 108, "text": "user: what will I have to pay for a learners permit?"}
+{"id": 109, "text": "user: Where is t he best place to get deeper information about sales tax? "}
+{"id": 110, "text": "user: Hello. My vehicle license plates are lost, stolen, or destroyed. What I can do?"}
+{"id": 111, "text": "user: How can I get new plates?"}
+{"id": 112, "text": "user: Hello, I need help. The license plates of my vehicle were stolen. What can I do?"}
+{"id": 113, "text": "user: Hello I need information about How can I get new plates?"}
+{"id": 114, "text": "user: I need info about a problem with my stolen plates"}
+{"id": 115, "text": "user: What should I do if the plates from my car were stolen?"}
+{"id": 116, "text": "user: Can you walk me through the procedure for requesting new plates?"}
+{"id": 117, "text": "user: Can you please tell me how I can get new plates?"}
+{"id": 118, "text": "user: My plates have been stolen. Can you please tell me what steps to take? I'm very concerned and don't know what to do."}
+{"id": 119, "text": "user: I had an accident in which the plate on my van was completely destroyed. Can you help me figure out what to do?"}
+{"id": 120, "text": "user: I need information on how to obtain a driver's license"}
+{"id": 121, "text": "user: How is the conditional use license for drivers from other states?"}
+{"id": 122, "text": "user: I'm from New Jersey and need information about obtaining a restricted use license in New York."}
+{"id": 123, "text": "user: I need information about drivers from other states obtaining a restricted license in NY."}
+{"id": 124, "text": "user: I have a restricted use license issued in NJ and need information about driving in NY."}
+{"id": 125, "text": "user: can you give me details of Drivers from other states\n"}
+{"id": 126, "text": "user: Hello, I would like more information about licenses for Drivers from other states"}
+{"id": 127, "text": "user: Hello, good morning. I'm going to visit NYS pretty soon and i would like to know if i can get a driving permit there."}
+{"id": 128, "text": "user: Hi there. I'm a person from another state different of NY, and I'm searching information."}
+{"id": 129, "text": "user: Hi there. I'm looking information related with drivers from others states."}
+{"id": 130, "text": "user: Hello there, I have some questions regarding being a driver from another state. Can you answer them for me, please?"}
+{"id": 131, "text": "user: I would like to know under what circumstances I can use proof of residence documents that are in the name of my spouse."}
+{"id": 132, "text": "user: hello a question I can use proof of residency documents that are in the name of my spouse"}
+{"id": 133, "text": "user: Heeyy, what's up?. You know, i need to do some things with DMV, but i have some doubts, about if i can use someone else's documents that proof that me is me, could you help me?"}
+{"id": 134, "text": "user: Hello. I was looking for some information related to proof my residence."}
+{"id": 135, "text": "user: Hello. Can you tell me if I can use a proof of residence if it's in my husband's name, but we live together?"}
+{"id": 136, "text": "user: I don t have enough proof of name identification to bring to the DMV. What can I do?"}
+{"id": 137, "text": "user: Hello, i'm trying to find proof of my ID for some procedures with you. I don't find any at the moment, but my spouse have some, Can those be useful?"}
+{"id": 138, "text": "user: I don't have the proofs of name identification that I need to bring to DMV. "}
+{"id": 139, "text": "user: What is the procedure if I do not have enough proof of name identification to bring with me to the DMV?"}
+{"id": 140, "text": "user: Hello, can you help me? I've been requested some identity proof, but i believe i don't have enough of that, What can i do about it?"}
+{"id": 141, "text": "user: we need help with a complaint"}
+{"id": 142, "text": "user: Is there a listing of the TOS for a MyDMV account? "}
+{"id": 143, "text": "user: What items do I need to bring to the DMV office to transfer registration?"}
+{"id": 144, "text": "user: hi i need i should take to the DMV office"}
+{"id": 145, "text": "user: Hello I need information about how to transfer a vehicle"}
+{"id": 146, "text": "user: do I need the title to transfer a registration to another car?"}
+{"id": 147, "text": "user: What should I bring to a DMV office?"}
+{"id": 148, "text": "user: do I need the title to transfer a registration to another car or do you have it on record?"}
+{"id": 149, "text": "user: What items do I need to bring to the DMV office when transferring a registration to another vehicle?"}
+{"id": 150, "text": "user: How can I find out about transferring a vehicle?"}
+{"id": 151, "text": "user: What needs to be done when I sell my vehicle?"}
+{"id": 152, "text": "user: Do I need to bring the title when I transfer a registration from one car to another car?"}
+{"id": 153, "text": "user: Hello, I received a letter stating that my insurance has expired. What I can do?"}
+{"id": 154, "text": "user: Hello I need information about How do I respond to the letter or request?"}
+{"id": 155, "text": "user:  I received a Letter that states my license is suspended. What can I do?"}
+{"id": 156, "text": "user: I received a Letter that states my insurance lapsed. What can I do?"}
+{"id": 157, "text": "user: How do I respond to the letter or order?"}
+{"id": 158, "text": "user: Hello I received a 'letter' or 'order' from DMV insurance. What I can do?"}
+{"id": 159, "text": "user: Hey, i need some guidance with certain letter i received some days ago about insurance, Could you help me out?"}
+{"id": 160, "text": "user: I'm here on an insurance matter"}
+{"id": 161, "text": "user: Hello, can you explain what I have to do if I don't have a liability insurance?"}
+{"id": 162, "text": "user: I got an insurance letter from you guys so I am here for help"}
+{"id": 163, "text": "user: Tell me about how to replace or transfer personalized plates"}
+{"id": 164, "text": "user: Do you have a list of voter registration application FAQs?"}
+{"id": 165, "text": "user: Please, give me additional information"}
+{"id": 166, "text": "user: I need help with planning my Social Security survivor benefits."}
+{"id": 167, "text": "user: How do I apply for disability benefits?"}
+{"id": 168, "text": "user: What documents do I need to get a corrected Social Security Card?"}
+{"id": 169, "text": "user: I need a corrected ss card for an adult"}
+{"id": 170, "text": "user: I need help with the retirement benefits planner"}
+{"id": 171, "text": "user: Will I need specific documents to get a card?"}
+{"id": 172, "text": "user: What kind of documents are required to get a card?"}
+{"id": 173, "text": "user: I need help with replacement card for a noncitizen adult."}
+{"id": 174, "text": "user: I need a replacement card for a foreign born Us adult"}
+{"id": 175, "text": "user: Please tell me the documents needed to get a Social Security card for a foreign-born adopted child."}
+{"id": 176, "text": "user: hello, hope you are well. How do I get an original card for a foreign Born Us citizen?"}
+{"id": 177, "text": "user: Hello. I understand I need original documents, but which ones?"}
+{"id": 178, "text": "user: It's my first time trying to get a social security card. I'm a noncitizen adult."}
+{"id": 179, "text": "user: Good morning. I'm parent of a foreign born U.S citizen child and need to get her a SSN card, could you tell me about it?"}
+{"id": 180, "text": "user: tell me more about my Social Security benefits"}
+{"id": 181, "text": "user: Could you please give me some information about survivors' benefits? "}
+{"id": 182, "text": "user: Can you help me out with the benefits planner for retirement?"}
+{"id": 183, "text": "user: Could you help me with the Retirement Benefits Planner?"}
+{"id": 184, "text": "user: What age should I start my benefits?"}
+{"id": 185, "text": "user: Could you please help me? I need to find out how to get an replacement card for a non citizen child that I have in my care."}
+{"id": 186, "text": "user: Hello I need information about What happens after I apply for retirement benefits?"}
+{"id": 187, "text": "user: For what reasons does Social Security provide people with benefits? "}
+{"id": 188, "text": "user: What will the benefits planner used for?"}
+{"id": 189, "text": "user: What kind of retirement benefits do I need?"}
+{"id": 190, "text": "user: Will my children get benefits as well?"}
+{"id": 191, "text": "user: Will I be eligible for spouse's benefits and have access to my spouse's benefits?"}
+{"id": 192, "text": "user: I'm applying for retirement benefits and want to know how much my wife would get."}
+{"id": 193, "text": "user: Hi, how you doing. Look, i'm looking for information about what original documents do i need related to replacing a SSN card for a child, please?"}
+{"id": 194, "text": "user: Hello, I wwas wondering where I begin?"}
+{"id": 195, "text": "user: Hey there. Please, i,ve been searching info about retirement and want to know about estimates."}
+{"id": 196, "text": "user: Hi there. I would like to get some information related on disability benefits."}
+{"id": 197, "text": "user: I would like to have information on social disability benefits management"}
+{"id": 198, "text": "user: Can you help me with the family benefits planner?"}
+{"id": 199, "text": "user: I need help with the benefits planner for family."}
+{"id": 200, "text": "user: You can help me with my family benefits and who can get some benefits"}
+{"id": 201, "text": "user: Can my family receive my benefits as well?"}
+{"id": 202, "text": "user: Oh, hi. Please, i'm looking for some info about family benefits. could you help me out?"}
+{"id": 203, "text": "user: I have questions about family benefits."}
+{"id": 204, "text": "user: Can you help me with family benefits?"}
+{"id": 205, "text": "user: I need help understanding family benefits."}
+{"id": 206, "text": "user: Hi there. Went the other day to social security asking for family benefits and they told me to use this chat, can you help me?"}
+{"id": 207, "text": "user: Does everyone in my family get the benefits?"}
+{"id": 208, "text": "user: I need to know if I can apply for adult disability benefits online. "}
+{"id": 209, "text": "user: what kinds of proof will I need when I apply for disability?"}
+{"id": 210, "text": "user: What are the next steps if I do not qualify for benefits on someone else's record?"}
+{"id": 211, "text": "user: hi"}
+{"id": 212, "text": "user: How do I apply for Social Security Retirement?"}
+{"id": 213, "text": "user: Regarding retirement benefits, how do I apply?"}
+{"id": 214, "text": "user: Hello I need information about What original documents do I need to get a Social Security Card?"}
+{"id": 215, "text": "user: Hello where do I begin?"}
+{"id": 216, "text": "user: I want to know what comes next after I'm approved for disability benefits"}
+{"id": 217, "text": "user: What happens after I report a death?"}
+{"id": 218, "text": "user: How much will I receive for disablilty"}
+{"id": 219, "text": "user: My application for benefits has been approved but I have not received any benefits yet. Can you tell me when my benefits will be paid?"}
+{"id": 220, "text": "user: Hi, good morning. I'm looking to do some benefits planning on disability. Can you help me with that?"}
+{"id": 221, "text": "user: I would like to apply for retirement benefits but am having trouble completing the application online, it keep timing out. How long do I have to work on each page before it times out?"}
+{"id": 222, "text": "user: Hello, i want to know which person can use the retirement estimator?"}
+{"id": 223, "text": "user: Yes hello I filled out all of the information in the Retirement Estimator and it took a long time. When I came back from answering the door, all of the information was gone. What happened?"}
+{"id": 224, "text": "user: Can I use the Retirement Estimator?"}
+{"id": 225, "text": "user: What is the time limit for each page?"}
+{"id": 226, "text": "user: I just received a time limit warning. How long can I stay on this page?"}
+{"id": 227, "text": "user: Am I eligible to use the Retirement Calculator?"}
+{"id": 228, "text": "user: Hey, I was wondering how long I can stay on every page of the estimator. It kicked me out before."}
+{"id": 229, "text": "user: Why does it say page expired?"}
+{"id": 230, "text": "user: Hello, who can use the retirement estimator?"}
+{"id": 231, "text": "user: I am an attorney what information to I need for a retirement plan for others?"}
+{"id": 232, "text": "user: How am I protected? "}
+{"id": 233, "text": "user: I need help with the retirement benefits planner."}
+{"id": 234, "text": "user: Hey there. I'm looking information related to the benefits that an adult with a disability can receive. if they can receive any from you."}
+{"id": 235, "text": "user: Hi there. I would like to know, what happens with an adult with a disability if this one wants to get access to the social security benefits."}
+{"id": 236, "text": "user: I want to open a My Social Security account but I'm not sure if I can"}
+{"id": 237, "text": "user: I received a security freeze fraud alert on my credit report"}
+{"id": 238, "text": "user: Are other people allowed to access my social security account?"}
+{"id": 239, "text": "user: I have a fraud alert on my credit report, can I create a My Social Security account?"}
+{"id": 240, "text": "user: What if I have a fraud alert on my credit report?"}
+{"id": 241, "text": "user: Hi. Can more than one person use my account?"}
+{"id": 242, "text": "user: Can my husband use my Social Security account?"}
+{"id": 243, "text": "user: I have a freeze on my credit report. Can I still open an account?"}
+{"id": 244, "text": "user: Do you have a security freeze or fraud alert on your credit report?"}
+{"id": 245, "text": "user: what does someone do if they have a freeze or fraud alert on my credit report?"}
+{"id": 246, "text": "user: I need SSI benefits information"}
+{"id": 247, "text": "user: Can you tell me a little bit about Supplemental Security Income benefits?"}
+{"id": 248, "text": "user: Hi there, how is it going?. Look, i was told the other day to search information about possible benefits that may be due for me and my family, could you tell me if that's true?"}
+{"id": 249, "text": "user: Hello, what increased benefits could my family and I get?"}
+{"id": 250, "text": "user: Hi, i'm being curious about what benefits may I be due. Could you help me with that?"}
+{"id": 251, "text": "user: What extra benefits can I get?"}
+{"id": 252, "text": "user: who is eligible?"}
+{"id": 253, "text": "user: who in my family can get benefits"}
+{"id": 254, "text": "user: How do I find out what benefits I qualify for?"}
+{"id": 255, "text": "user: I want to know what kind of benefits I may be able to get"}
+{"id": 256, "text": "user: Hi, good afternoon. I'm interested into knowing what benefits may be due for me."}
+{"id": 257, "text": "user: What benefits do i get?"}
+{"id": 258, "text": "user: how do I set up direct deposit?"}
+{"id": 259, "text": "user: What if a person has a security freeze on their credit report?"}
+{"id": 260, "text": "user: Hello. Can you tell me if I have a security freeze on my credit report?"}
+{"id": 261, "text": "user: I need to set up direct deposit for my benefit payment"}
+{"id": 262, "text": "user: Can you tell me about increase for delayed retirement?"}
+{"id": 263, "text": "user: Is there any additional information for delayed retirement credits?"}
+{"id": 264, "text": "user: Is there an increase for delayed retirement?"}
+{"id": 265, "text": "user: I am thinking of delaying my retirement benefits but I have a few questions about it before I decision, can you help me please?"}
+{"id": 266, "text": "user: Tell me about the increase for delayed retirement."}
+{"id": 267, "text": "user: I am trying to decide when I should apply for retirement benefits, I am not sure what's the best time to start. Can you please give me some additional information about this.\n"}
+{"id": 268, "text": "user: What are delayed retirement credits?"}
+{"id": 269, "text": "user: Why are they delayed?"}
+{"id": 270, "text": "user: When does the benefits increase?"}
+{"id": 271, "text": "user: is there any other information i need to know?"}
+{"id": 272, "text": "user: I need to know if my family members are eligible for increased benefits"}
+{"id": 273, "text": "user: Does it matter if I work when applying for disability?"}
+{"id": 274, "text": "user: how do I qualify for social security?"}
+{"id": 275, "text": "user: You can help me with benefits for retirement at my age"}
+{"id": 276, "text": "user: what if you retire early?"}
+{"id": 277, "text": "user: Can I request a reconsideration online?"}
+{"id": 278, "text": "user: How do you Check the Status of Your Reconsideration"}
+{"id": 279, "text": "user: I would like to know what happens if the deceased receives monthly benefits?"}
+{"id": 280, "text": "user: Are other family members eligible for survivor benefits?"}
+{"id": 281, "text": "user: How do I qualify for Disability?"}
+{"id": 282, "text": "user: What happens if a person goes back to work?"}
+{"id": 283, "text": "user: you can tell me who can get survivors benefits when someone dies"}
+{"id": 284, "text": "user: hello there. I would like to know if there are the chance that others family members besides my spouse get benefited too. "}
+{"id": 285, "text": "user: How To Apply Online For Just Medicare"}
+{"id": 286, "text": "user: Hi, i'm need of going through a change of address, could you help me?"}
+{"id": 287, "text": "user: how do I apply?"}
+{"id": 288, "text": "user: Where can I apply for it at?"}
+{"id": 289, "text": "user: Good morning. Please, i want to acquire some data about the retirement planner."}
+{"id": 290, "text": "user: Where should I begin?"}
+{"id": 291, "text": "user: Can I apply for benefits on line?"}
+{"id": 292, "text": "user: Good day, I have questions regarding the benefits planner for my upcoming retirement."}
+{"id": 293, "text": "user: I need help with Retirement benefits planner."}
+{"id": 294, "text": "user: Can I apply for retirement benefits or medicare?"}
+{"id": 295, "text": "user: what do I need to do?"}
+{"id": 296, "text": "user: Hey, can you tell me something about my retirement benefits planner?"}
+{"id": 297, "text": "user: I need to plann for retirement"}
+{"id": 298, "text": "user: How canI apply for retirement?"}
+{"id": 299, "text": "user: Can you tell me something about the benefit letter for social security?"}
+{"id": 300, "text": "user: What if I still have questions about my benefit verification letter?"}
+{"id": 301, "text": "user: If I decide to keep working after retirement how much can I earn and still get retirement benefits?"}
+{"id": 302, "text": "user: hello I have some questions"}
+{"id": 303, "text": "user: Can I get benefits while I am working?"}
+{"id": 304, "text": "user: can I get benefits while working?"}
+{"id": 305, "text": "user: Can I get benefits while working?"}
+{"id": 306, "text": "user: Is it possible to work while receiving benefits?"}
+{"id": 307, "text": "user: Can I get benefits while working"}
+{"id": 308, "text": "user:  How Much Can I Earn And Still Get Benefits?"}
+{"id": 309, "text": "user: can a person who works get benefits?"}
+{"id": 310, "text": "user: Can I still earn money and receive benefits at the same time?"}
+{"id": 311, "text": "user: what is a benefits planner?"}
+{"id": 312, "text": "user: Hi, i've thinking about retirement and heard about planning for that. What can you tell me?"}
+{"id": 313, "text": "user: Should I sign up for Medicare Part B?"}
+{"id": 314, "text": "user: What if I plan to continue working after taking benefits?"}
+{"id": 315, "text": "user: How do i apply for medicare?"}
+{"id": 316, "text": "user: I want info about what happens to my benefits if I want to keep working"}
+{"id": 317, "text": "user: Is there  special enrollment period for applying for medicare only?"}
+{"id": 318, "text": "user: I need a little help, I want to find out about Part B, Medical insurance"}
+{"id": 319, "text": "user: I need to find out about medicare health insurance coverage"}
+{"id": 320, "text": "user: how do you only apply for medicare?"}
+{"id": 321, "text": "user: Is there life time benefits?"}
+{"id": 322, "text": "user: Hi, i'm receiving benefits, but i wanted to know if there is a chance i keep them now i'm looking to continue working."}
+{"id": 323, "text": "user: Hello, I'm here to learn more about how you determine if a person is disabled."}
+{"id": 324, "text": "user: Hello, I would like to obtain information about disability benefits for a child under 18 "}
+{"id": 325, "text": "user: what can you tell me about\nDisability Benefits | Apply For A Child (Under Age 18)"}
+{"id": 326, "text": "user: I'm looking for info about social security credits."}
+{"id": 327, "text": "user: Hello, I would like to obtain information about Social Security Credits"}
+{"id": 328, "text": "user: how Keep my Information Secure"}
+{"id": 329, "text": "user: I was wondering if you have some resources about retirement benefits. I'm looking for some answers."}
+{"id": 330, "text": "user: hi can you help me with retirement planning"}
+{"id": 331, "text": "user: What is Retirement Planning like?\n"}
+{"id": 332, "text": "user: Hello there. I'm currently not receiving any benefits, but would like to apply for direct deposit. In the light of this I have some questions, hope you can answer them for me."}
+{"id": 333, "text": "user: Hello, I would like to know what happens if I am already receiving benefits?"}
+{"id": 334, "text": "user: My income has changed and I wanted to know how that affects my Medicare."}
+{"id": 335, "text": "user: My income has changed and I wanted to know which impact this has on my retirement."}
+{"id": 336, "text": "user: what can you tell me about Social Security Direct Deposit\n"}
+{"id": 337, "text": "user: what can you tell me about Social Security Direct Deposit\n"}
+{"id": 338, "text": "user: what can you tell me about Medicare Premiums: Rules For Higher-Income Beneficiaries"}
+{"id": 339, "text": "user: Hello, I have some questions about Medicare premiums."}
+{"id": 340, "text": "user: Hello, I would like to know how to apply for a disability benefits for a minor"}
+{"id": 341, "text": "user: I could use some guidance on how to apply for a disabled child."}
+{"id": 342, "text": "user: it's not my case Social Security Credits\n"}
+{"id": 343, "text": "user: Hello, I would like to obtain information about Social Security Credits"}
+{"id": 344, "text": "user: How to apply for retirement benefits with the local office"}
+{"id": 345, "text": "user: I was wondering where I can find information for my application. I want to apply for retirement benefits."}
+{"id": 346, "text": "user: how do you Check your VA claim or appeal status"}
+{"id": 347, "text": "user: What can I do if I don't agree with a board decision?"}
+{"id": 348, "text": "user: hg"}
+{"id": 349, "text": "user: what is Military sexual trauma (MST)"}
+{"id": 350, "text": "user: I need information about what happens after applying for the GI Bill please."}
+{"id": 351, "text": "user: Hey there. I need help avoiding a mortgage foreclosure."}
+{"id": 352, "text": "user: What if my records were destroyed in fire?"}
+{"id": 353, "text": "user: Oh, hello. I'm here to learn more about health care for spouses. Can you help me out?"}
+{"id": 354, "text": "user: what happens after After you apply for health care benefits"}
+{"id": 355, "text": "user: Hello, I just wanted to know what information I need for my request."}
+{"id": 356, "text": "user: What information do you have about the Affordable Care Act and how it affects VA health care coverage?"}
+{"id": 357, "text": "user: what is VA disability compensation"}
+{"id": 358, "text": "user: Are there Resources and support outside VA"}
+{"id": 359, "text": "user: What can I do since I could have been exposed to environmental hazards while serving in Iraq?"}
+{"id": 360, "text": "user: Hello there, I have problems with substance use and need help."}
+{"id": 361, "text": "user: Hello. I'm currently unemployed and would like to ask about possible jobs for me."}
+{"id": 362, "text": "user: How are you doing? I have some questions about what to do after a board decision I have a problem with."}
+{"id": 363, "text": "user: Hey there. I need some assistance with my disability claim."}
+{"id": 364, "text": "user: I don't understand my benefits and how to get them. Can you help me?"}
+{"id": 365, "text": "user: What if I need help understanding my benefits or accessing services?"}
+{"id": 366, "text": "user: hi i need help about the services they offer for VA with Health Needs and Conditions"}
+{"id": 367, "text": "user: How do I find out how to get health services for a specific condition or need?"}
+{"id": 368, "text": "user: Hello. Hope you're in good health. I need some information about my benefits."}
+{"id": 369, "text": "user: What if I need help understanding my benefits or accessing services?"}
+{"id": 370, "text": "user: What services are available for health needs and conditions?"}
+{"id": 371, "text": "user: I'm a vet and wanted to know what you have for someone like me"}
+{"id": 372, "text": "user: are you a real person or a robot? anyways, I need health care for depression"}
+{"id": 373, "text": "user: Hello, I came here to learn in what way your services can cover my health needs."}
+{"id": 374, "text": "user: \nI would like information related to the costs of medical care."}
+{"id": 375, "text": "user: What are employment benefits for dependent family members?"}
+{"id": 376, "text": "user: hi i need help about VA Education and Training Benefits"}
+{"id": 377, "text": "user: can you give me details of Get GI Bill and other education benefits\n"}
+{"id": 378, "text": "user: I need more information and resources about VA Education Benefits\n"}
+{"id": 379, "text": "user: hi i need help about VA Education and Training Benefits\n"}
+{"id": 380, "text": "user: Hello, i've been reading about the benefits that Veterans can get, but i was wondering about education benefits. Could you tell me about it, if possible?"}
+{"id": 381, "text": "user: Hello there. Please, do you have any educational benefits for veterans?"}
+{"id": 382, "text": "user: I am looking for more information about VA education."}
+{"id": 383, "text": "user: What are VA education and training benefits for?"}
+{"id": 384, "text": "user: I would like to know more about VA education benefits."}
+{"id": 385, "text": "user: Where can I learn more about VA education and training benefits?"}
+{"id": 386, "text": "user: I need help with the VA Welcome Kit"}
+{"id": 387, "text": "user: Hello there, I would like to know more about VA benefits for service members."}
+{"id": 388, "text": "user: can you give me details of Access and manage your VA benefits and health care\n"}
+{"id": 389, "text": "user: hi i need help about how to access and manage my VA benefits and healthcare\n"}
+{"id": 390, "text": "user: Hello! I would like advice on medical care\n"}
+{"id": 391, "text": "user: How do I access and manage my VA benefits and health care?"}
+{"id": 392, "text": "user: How can I manage my VA benefits and health care?"}
+{"id": 393, "text": "user: I want to use the VA.gov site for my benefits and need help"}
+{"id": 394, "text": "user: I need help with your site"}
+{"id": 395, "text": "user: I need to manage my VA health benefits."}
+{"id": 396, "text": "user: I would like to know more about how I can manage my VA benefits and health care, please."}
+{"id": 397, "text": "user: I need to access and manage my VA benefits and health care."}
+{"id": 398, "text": "user: I just wanted to get a little info on life insurance"}
+{"id": 399, "text": "user: I need to know about VA benefits for service members"}
+{"id": 400, "text": "user: I need to know if I can get information on exposure to hazardous chemicals and materials."}
+{"id": 401, "text": "user: I need help with pension benefits"}
+{"id": 402, "text": "user: Hey there, how is it going?. I'm a veteran with a disability and heard about some program that helps those with my condition. Could you help me out?"}
+{"id": 403, "text": "user: I need help getting insurance"}
+{"id": 404, "text": "user: Is it possible for getting more than one VA education benefit at the same time?"}
+{"id": 405, "text": "user: How do I get a Fry Scholarship?"}
+{"id": 406, "text": "user: Hello, I have some questions regarding my job and the time in which I recover."}
+{"id": 407, "text": "user: Can I access my VA life insurance online?"}
+{"id": 408, "text": "user: How long will it take for me to get my first disability payment?"}
+{"id": 409, "text": "user: I need to make a doctor appointment but I don't know where to go."}
+{"id": 410, "text": "user: Hello, I would like to know More information and resources of VA Health Care"}
+{"id": 411, "text": "user: I'm here because I need to know a few things about compensation for veterans with PTSD."}
+{"id": 412, "text": "user: Hello there. I hope you're doing well. I came here to learn more about women's health services for female veterans."}
+{"id": 413, "text": "user: Please, talk me about my VA care team."}
+{"id": 414, "text": "user: need info on whether or not I can use my GI Bill benefits for more classes after graduating"}
+{"id": 415, "text": "user: I need help with getting a disability rating"}
+{"id": 416, "text": "user: Hello, I came here to learn more about my disability rating after I had a surgery."}
+{"id": 417, "text": "user: Hello, I would like to know what suicide prevention measures there are for veterans"}
+{"id": 418, "text": "user: Hello, I was wondering what the next steps are now that I requested a review of a decision."}
+{"id": 419, "text": "user: Hi. I need more information about your medical benefits package"}
+{"id": 420, "text": "user: How to Apply for Rehabilitation and Employment at VA Voc"}
+{"id": 421, "text": "user: tell me, VA home loan programs for surviving spouses"}
+{"id": 422, "text": "user: Hello I need information about the Program and see VA appointments online"}
+{"id": 423, "text": "user: Can you help me get information for the Premium Waiver for policyholders who are totally disabled?"}
+{"id": 424, "text": "user: What is the benefit of a fully developed claim for a VA pension?"}
+{"id": 425, "text": "user: how you entered tutorial assistance"}
+{"id": 426, "text": "user: can you give me details of VA disability compensation for PTSD"}
+{"id": 427, "text": "user: can you give me details of Agent Orange exposure\n"}
+{"id": 428, "text": "user: hi i need help about Veterans Mortgage Life Insurance (VMLI)"}
+{"id": 429, "text": "user: hi i need help about VA Assistance and Home Assistance and Subsidy Benefits"}
+{"id": 430, "text": "user:  Is there anything that will make me more likely to get these benefits?"}
+{"id": 431, "text": "user: hi i need help about Will VA cover the cost of the glasses?"}
+{"id": 432, "text": "user: Hello, I need information about Life Insurance for Veterans with Disabilities in Service (S-DVI)"}
+{"id": 433, "text": "user: Hello, could you give me information about Life Insurance for disabled veterans in the S-DVI service"}
+{"id": 434, "text": "user: Can you tell me about Service-Disabled Veterans Life Insurance?"}
+{"id": 435, "text": "user: What does service-disable veterans life insurance provide?"}
+{"id": 436, "text": "user: What does S-DVI provide?"}
+{"id": 437, "text": "user: what is Service-Disabled Veterans Life Insurance ?"}
+{"id": 438, "text": "user: what can you tell me about Service-Disabled Veterans Life Insurance (S-DVI)?"}
+{"id": 439, "text": "user: can you give me details of Service-Disabled Veterans Life Insurance (S-DVI)"}
+{"id": 440, "text": "user: can you give me details of Service-Disabled Veterans Life Insurance (S-DVI)\n"}
+{"id": 441, "text": "user: Service-Disabled Veterans Life Insurance (S-DVI)"}
+{"id": 442, "text": "user: Good day. How do I get my medical records online?"}
+{"id": 443, "text": "user: hi i need help about Agent Orange Exhibition in Vietnam or Korea"}
+{"id": 444, "text": "user: can I get help buying dental insurance?"}
+{"id": 445, "text": "user: hello i need help on how VA education benefits for survivors and dependents"}
+{"id": 446, "text": "user: I would like you to help me obtain information on How much will my service member pay for dependent coverage?"}
+{"id": 447, "text": "user: How much will my service member pay for dependent coverage?"}
+{"id": 448, "text": "user: How much will my service member pay for dependent coverage?"}
+{"id": 449, "text": "user: Hi, I'd like to know how much will my service member pay for dependent coverage?"}
+{"id": 450, "text": "user: hi i need to know how much will my service member pay for dependent coverage?"}
+{"id": 451, "text": "user: Hi, how you doing. Look, i was searching for information about insurance for family members. Could you tell me how much will my service member pay for dependent coverage?"}
+{"id": 452, "text": "user: How much will my service member pay for dependent coverage?"}
+{"id": 453, "text": "user: How much will my service member pay for dependent coverage?"}
+{"id": 454, "text": "user: hi i need help about How much will my service member pay for dependent coverage?"}
+{"id": 455, "text": "user: How much will a service member pay for dependent coverage for a child?"}
+{"id": 456, "text": "user: What is VA Individual unemployment if you cannot work?"}
+{"id": 457, "text": "user: Veterans Group Life Insurance (VGLI)"}
+{"id": 458, "text": "user: CHAMPVA benefits"}
+{"id": 459, "text": "user: I wanted to look into what the housing grant is all about"}
+{"id": 460, "text": "user: hi, show me information about Post-9/11 GI Bill"}
+{"id": 461, "text": "user: I am trying to learn about assisted living or nursing homes."}
+{"id": 462, "text": "user: Can you explain to me how my benefits could change from year to year?"}
+{"id": 463, "text": "user: I was just wondering if you could tell me if there is some sort of assistance available for family members who care for a Veteran with disabilities?"}
+{"id": 464, "text": "user: I want to know about the survivor and dependent program Educational assistance"}
+{"id": 465, "text": "user: \nthere is a program to help veterans study"}
+{"id": 466, "text": "user: what is work study?"}
+{"id": 467, "text": "user: How does the Work study for Veterans work?"}
+{"id": 468, "text": "user: Hello, Can I work and study?"}
+{"id": 469, "text": "user: please show me information about Work study"}
+{"id": 470, "text": "user: Hello. I need information about the work study program please."}
+{"id": 471, "text": "user: Can you tell me more about this work-study program of yours?"}
+{"id": 472, "text": "user: What is the work study program?"}
+{"id": 473, "text": "user: How does work study work for me as a Veteran?"}
+{"id": 474, "text": "user: Good morning. Please, I'm a veteran and have some projects to do but need to pass through school. Do you have some kind of work study program?"}
+{"id": 475, "text": "user: Good afternoon, I would like to get info about independent living, please."}
+{"id": 476, "text": "user: Hi, I would like to know about agent orange exposure Coast Guard Ships"}
+{"id": 477, "text": "user: I want to transfer GI Bill benefits"}
+{"id": 478, "text": "user: I need some info to transfer my Post-9/11 GI Bill benefits."}
+{"id": 479, "text": "user: Am I able to transfer my post-9/11 GI Bill benefits to my husband?"}
+{"id": 480, "text": "user: I would like information about transferring your GI Bill benefits after 9/11"}
+{"id": 481, "text": "user: please show me information about Transfer your Post-9/11 GI Bill benefits"}
+{"id": 482, "text": "user: I need to know how to transfer my GI Bill benefits from before 9/11."}
+{"id": 483, "text": "user: Will I be able to transfer your Post-9/11 GI Bill benefits?"}
+{"id": 484, "text": "user: Can I transfer my Post-9/11 GI Bill benefits?"}
+{"id": 485, "text": "user: I need help with transferring my Post-9/11 GI Bill benefits to my son."}
+{"id": 486, "text": "user: I need to know if my husband can use my GI Bill? "}
+{"id": 487, "text": "user: Hi, I am trying to learn about VA vocational rehab."}
+{"id": 488, "text": "user: I wanted to find out how to add my daughter to my disability benefits"}
+{"id": 489, "text": "user: VR&E Reemployment track"}
+{"id": 490, "text": "user: VR&E Reemployment track"}
+{"id": 491, "text": "user: VR&E Reemployment track"}
+{"id": 492, "text": "user: I would like to learn more about the VR&E reemployment track."}
+{"id": 493, "text": "user: What is the VR&E reemployment list?"}
+{"id": 494, "text": "user: Is the VR&E program something that would benefit me?"}
+{"id": 495, "text": "user: I would like some help with the reemployment  VR&E benefits"}
+{"id": 496, "text": "user: Could you please tell me about the VR&E Reemployment track? "}
+{"id": 497, "text": "user: I am trying to learn about resuming my civilian career after serving."}
+{"id": 498, "text": "user: What is VR&E Reemployment track?"}
+{"id": 499, "text": "user: I want to know more about my VA benefits and my disability rating"}
+{"id": 500, "text": "user: Camp Lejeune water contamination health issues"}
+{"id": 501, "text": "user: Camp Lejeune water contamination health issues"}
+{"id": 502, "text": "user: I want to know more about the water issues at camp Lejeune"}
+{"id": 503, "text": "user: Hi, show me information about Camp Lejeune water contamination health issues"}
+{"id": 504, "text": "user: please show me information about Camp Lejeune water contamination health issues"}
+{"id": 505, "text": "user: I need info about Camp Lejeune water contamination health issues"}
+{"id": 506, "text": "user: hi i need help about Camp Lejeune water pollution health problems"}
+{"id": 507, "text": "user: I want to know if I can get VA benefits for the Camp Lejeune water mishap"}
+{"id": 508, "text": "user: Hello. I'm trying to get information about Camp Lejeune's water problems."}
+{"id": 509, "text": "user: Hey there, how you doing?. Look, a relative was on active duty on a base, and he was told to look for information about possible health problems there. Is that correct?"}
+{"id": 510, "text": "user: Hey, how you doing. I'm researching about treatment to veterans for agent orange, coudl you help me?"}
+{"id": 511, "text": "user: Can you explain the Veterans Educational Assistance Program?"}
+{"id": 512, "text": "user: please show me information about VADIP"}
+{"id": 513, "text": "user: What is the VA dental insurance program?"}
+{"id": 514, "text": "user: What do VA dental insurance programs offer?"}
+{"id": 515, "text": "user: please show me information about VADIP"}
+{"id": 516, "text": "user: What does the VA dental insurance program (VADIP) offer?"}
+{"id": 517, "text": "user: I would like to learn about the VA Dental Insurance Program."}
+{"id": 518, "text": "user: What can you tell me about the VA Dental Insurance Program?"}
+{"id": 519, "text": "user: Can you give me more information about what the VADIP is?"}
+{"id": 520, "text": "user: Does VADIP provide dental insurance to veterans?"}
+{"id": 521, "text": "user: Hi. I am in the VA, and I need to get dental insurance."}
+{"id": 522, "text": "user: can you give me details of Eligibility requirements for VA home loan program"}
+{"id": 523, "text": "user: Am I able to get benefits if I was a volunteer in the research for chemical and biological testing?"}
+{"id": 524, "text": "user: hi i need help about Foreign programs"}
+{"id": 525, "text": "user: Hello, hope you're doing well...Look, i wanted to know if there are some kind of technology courses for veterans?"}
+{"id": 526, "text": "user: hi i need help about Types of Veterans Identification Cards"}
+{"id": 527, "text": "user: you can help me apply for a Veteran ID card"}
+{"id": 528, "text": "user: Good afternoon. I'm looking for some info about schooling opportunities for veterans. Are there any kind of these benefits?."}
+{"id": 529, "text": "user: Hey good morning, how you doing?. Say, the other day i heard something about co-op training program. Could you tell me about it, please?"}
+{"id": 530, "text": "user: can you give me details of Exposure through Project 112 or Project SHAD"}
+{"id": 531, "text": "user: Hello, I need some help with my application for student aid, please."}
+{"id": 532, "text": "user: I wanted to know about career options"}
+{"id": 533, "text": "user: hello i would like to get information about new applicants"}
+{"id": 534, "text": "user: Do student loan deferments allow me to temporarily stop making payments?"}
+{"id": 535, "text": "user: Will a student loan deferment help me out if i need to stop making payments?"}
+{"id": 536, "text": "user:  What is the feedback center for?"}
+{"id": 537, "text": "user: What is the feedback center ?"}
+{"id": 538, "text": "user: is this where I go to complain?"}
+{"id": 539, "text": "user: I have something to submit about false information that I was given."}
+{"id": 540, "text": "user: Did I reach the feedback center?"}
+{"id": 541, "text": "user: Hello there. I'm here to ask a few things about submitting feedback."}
+{"id": 542, "text": "user: Why is their a feedback center for Federal Student Aid?"}
+{"id": 543, "text": "user: Hi there, could you explain to me what exactly the function of the Feedback Centre in relation to Student Aid is?"}
+{"id": 544, "text": "user: Hello, I'd like to submit some feedback on my experience."}
+{"id": 545, "text": "user: What does the feedback center do?"}
+{"id": 546, "text": "user: I'm here for plus loan info?"}
+{"id": 547, "text": "user: What are Direct PLUs Loans?"}
+{"id": 548, "text": "user: Do all schools cost the same or do they differ from school to school?"}
+{"id": 549, "text": "user: I just wanted to do a little digging to learn more about paying for college"}
+{"id": 550, "text": "user: Could you please tell me what is included in the Federal Student Aid Specific Resources section of the IT Standards Library?"}
+{"id": 551, "text": "user: Hello, can you inform me what actions can I take for the credit?"}
+{"id": 552, "text": "user: Hello, can you advise me with the credit part?"}
+{"id": 553, "text": "user: I need information about the direct plus loan application for graduate students. Can you help me?"}
+{"id": 554, "text": "user: who is Aidan?"}
+{"id": 555, "text": "user: What are the next steps involved after I submit my FAFSA form for federal student aid?"}
+{"id": 556, "text": "user: I have some questions about what it means to be a co-signer."}
+{"id": 557, "text": "user: I need help with understanding how financial aid works."}
+{"id": 558, "text": "user: How is the amount of my federal student aid figured out?"}
+{"id": 559, "text": "user: Is it wise to compare school aid offers I get from each college?"}
+{"id": 560, "text": "user: Hello, I would like you to help me with something. I recently left the school and the school did not make the required return of the loan funds to the loan administrator."}
+{"id": 561, "text": "user: I have a question regarding the Loan Simulator in the FSA process. How accurate is it?"}
+{"id": 562, "text": "user: I want to see what payments will be like for a loan"}
+{"id": 563, "text": "user: Hi, could you please advise me as to the accuracy of Loan Simulator, is it accurate?"}
+{"id": 564, "text": "user: Hello there, I have some questions about the loan simulator."}
+{"id": 565, "text": "user: Hello, I have a few questions about the accuracy of the loan simulator."}
+{"id": 566, "text": "user: I need help using the loan simulator."}
+{"id": 567, "text": "user: I came here because I have several questions about the loan simulator, for example about it's accuracy."}
+{"id": 568, "text": "user: hi i would like to know how accurate is the loan simulator?"}
+{"id": 569, "text": "user: Hi there. I'm looking information about loans, and the loan simulator."}
+{"id": 570, "text": "user: Are loan simulators accurate?"}
+{"id": 571, "text": "user: hello i would like help with the following, how do i decide which income based payment plan should i choose?"}
+{"id": 572, "text": "user: Hi, I need help with my payment plan. How do I decide which income-based payment plan to choose?"}
+{"id": 573, "text": "user: Hello, I need to know what is the forgiveness please?"}
+{"id": 574, "text": "user: I would like to know if I can get my federal student loans forgiven for their service as a teacher?"}
+{"id": 575, "text": "user: Why do I need Exit Counseling?"}
+{"id": 576, "text": "user: I'm wondering how the Graduated Repayment Plan works?"}
+{"id": 577, "text": "user: How do I choose the Direct Loan Master Promissory Note I want to preview?"}
+{"id": 578, "text": "user: I am looking for more information on entrance counseling , can you give me some?"}
+{"id": 579, "text": "user: Hello, a question. Can US students apply for federal aid?"}
+{"id": 580, "text": "user: I need to know whether I, as a non-citizen, qualify for federal student aid."}
+{"id": 581, "text": "user: What is the best choice when accepting financial aid from a school?"}
+{"id": 582, "text": "user: I came here hoping you could explain how the income-sensitive repayment plan works. Can you tell me more about this plan?"}
+{"id": 583, "text": "user: hi could you help me choose the federal student loan repayment plan that is best for me\n"}
+{"id": 584, "text": "user: I want to find the best repayment plan for my school loan"}
+{"id": 585, "text": "user: can you help me choose the federal student loan repayment plan"}
+{"id": 586, "text": "user: I'm looking to see what I can get out of a repayment plan"}
+{"id": 587, "text": "user: Hello, I would like you to help me choose the federal student loan payment plan that is best for me.\n"}
+{"id": 588, "text": "user: Hello, I have some questions about my student loan plan. Perhaps you can help me with that."}
+{"id": 589, "text": "user: I need help choosing a federal student loan repayment plan."}
+{"id": 590, "text": "user: I'm here to look at a good repayment plan"}
+{"id": 591, "text": "user: Hello, I would like to know what federal payment plan you recommend me?"}
+{"id": 592, "text": "user: I need some help choosing the right federal student loan repayment plan that's best for me."}
+{"id": 593, "text": "user: Hello, I would like to have more information about the delinquency of student loans and default.\n"}
+{"id": 594, "text": "user: Hello i would like to get information about Student Loan Delinquency and Default\n"}
+{"id": 595, "text": "user: Hello i would like to get information about Student Loan Delinquency and Default\n"}
+{"id": 596, "text": "user: hi i would like to get information about student loan default\n"}
+{"id": 597, "text": "user: I am delinquent on a loan do I really have to pay?"}
+{"id": 598, "text": "user: I might be in loan trouble"}
+{"id": 599, "text": "user: I'm not making payments on my loan"}
+{"id": 600, "text": "user: I was wondering what happens if I can't pay my student loan and I'd appreciate some answers. "}
+{"id": 601, "text": "user: What happens with student loan delinquency and default?"}
+{"id": 602, "text": "user: I came here to learn more a bout student loan delinquency. What can you tell me about that?"}
+{"id": 603, "text": "user: who can get the public service loan forgiveness?"}
+{"id": 604, "text": "user: I wanted to know if I can get loan forgiveness"}
+{"id": 605, "text": "user: Hi, I am having difficulty paying my student loans and was wondering if I could consolidate my loans to help with my financial position?"}
+{"id": 606, "text": "user: Hi, I have a number of student loans and am wondering if I consolidated them into one loan if that would benefit me."}
+{"id": 607, "text": "user: I want to look into consolidating my student loans"}
+{"id": 608, "text": "user: Hello there, I have some questions about the fact that I have noticed a reduction on the benefits I have received in the past few days."}
+{"id": 609, "text": "user: tell me about student loan consolidation"}
+{"id": 610, "text": "user: Does consolidating my federal educational loans help?"}
+{"id": 611, "text": "user: Is there pros and cons with consolidating my federal educational loans?"}
+{"id": 612, "text": "user: Are there pros and cons when consolidating my federal education loans?"}
+{"id": 613, "text": "user: What does consolidating your federal education help with and not help with?"}
+{"id": 614, "text": "user: Hello. I have some questions related to the consolidation of the loan I have."}
+{"id": 615, "text": "user: I need to know if I'm eligible to have my Federal Perkins Loan cancelled."}
+{"id": 616, "text": "user: Hi, I was wondering if I can qualify to have the entire federal loan canceled?"}
+{"id": 617, "text": "user: What is the Direct PLUS Loan Application for supplemental information for?"}
+{"id": 618, "text": "user: Hello there. Can you please tell me something about federal student loans? How exactly do they work?"}
+{"id": 619, "text": "user: Hello, can you tell me what requirements are asked to qualify for federal student aid?"}
+{"id": 620, "text": "user: Do I need to meet certain requirements to get federal student aid?"}
+{"id": 621, "text": "user: I need to know where I can report someone for messing with my money?"}
+{"id": 622, "text": "user: Can I get help for the military service of a relative or myself?"}
+{"id": 623, "text": "user: Are there any tax benefits available from the IRS in relation to education costs?"}
+{"id": 624, "text": "user: I need help understanding federal student loans and private student loans."}
+{"id": 625, "text": "user: Hello, can you inform me if I am eligible for the cancellation of a student loan through a false certification?"}
+{"id": 626, "text": "user: Hello, can you tell me if I can be eligible for loan cancellation based on a false certification?"}
+{"id": 627, "text": "user: Could forgiveness of my federal student loan be available if the school I attended misled me or engaged in misconduct in violation of certain laws?"}
+{"id": 628, "text": "user: What is the name of the forgiveness if I was misled by a school?"}
+{"id": 629, "text": "user: I have heard that borrowers may be able to avail of forgiveness of their federal student loans if the school was found to have misled the borrower or engaged in misconduct. Is this true?"}
+{"id": 630, "text": "user: Is there any option for a borrower to be eligible for debt forgiveness of a federal student loan if the school in question misled the borrower or were engaged in misconduct unbecoming of the school?"}
+{"id": 631, "text": "user: educate me on loan forgiveness because I think I was done wrong"}
+{"id": 632, "text": "user: I need to know if I am eligible for federal student loan forgiveness."}
+{"id": 633, "text": "user: Could you give me more information regarding debt forgiveness of federal student loans as a result of a school misleading a student or being engaged in misconduct?"}
+{"id": 634, "text": "user: I have reason to believe that I could be eligible for loan forgiveness in relation to my school, can you give me more information on this regard?"}
+{"id": 635, "text": "user: I think I may be eligible for debt forgiveness of my federal student loan due to a law violation carried out by my school. How do I pursue this?"}
+{"id": 636, "text": "user: Hello there. My school misled me and I came here to find out if I am eligible for loan forgiveness in that context."}
+{"id": 637, "text": "user: Hello, can you tell me what the FAFSA completion data consists of?"}
+{"id": 638, "text": "user: I have several questions about FAFSA termination"}
+{"id": 639, "text": "user: Can you tell me who can qualify for federal student aid?"}
+{"id": 640, "text": "user: Hi, I am not from the United States but I applying to colleges there. Will I be able to get any sort of financial aid to attend college there?"}
+{"id": 641, "text": "user: Hi. I want to go to college but I don't think I can afford it. I only have one parent because my dad died in the military when I was a baby. Do you know of anything that could help me?"}
+{"id": 642, "text": "user: Hi, good morning. I'm now looking into your financial aid, and wanted to know if this kind of programs  are available to non-citizens?"}
+{"id": 643, "text": "user: I have a question that you might be able to help me with, can I apply for financial student aid if I am a non-US citizen?"}
+{"id": 644, "text": "user: Hello, I'm a student whose parents were Killed in Iraq, I want to know if I can get \"aid\", and if so: what do I have to do?"}
+{"id": 645, "text": "user: How can I regain eligibility for federal student aid?"}
+{"id": 646, "text": "user: Hi, I would like to find out if I am eligible for federal student aid, could you please tell me who is eligible to get aid?"}
+{"id": 647, "text": "user: where can I get info on regaining my financial aid eligibility?"}
+{"id": 648, "text": "user: Hi there, I am wondering if I am eligible for financial aid if I am a non-US citizen?"}
+{"id": 649, "text": "user: I cannot provide parent info due to a special circumstance, what can I do?"}
+{"id": 650, "text": "user: I cannot provide my parents info what can I do?"}
+{"id": 651, "text": "user: Hello there, hope you're doing well in these times. I was wondering what the FSAA can do for me as a student."}
+{"id": 652, "text": "user: Hi there. I'm looking information about forbearance."}
+{"id": 653, "text": "user: How can I request an indulgence?"}
+{"id": 654, "text": "user: i need help i would like to know if your school closes while you enroll or soon after you retire, you may be eligible for discharge from your federal student loan"}
+{"id": 655, "text": "user: I have some closed school loan questions"}
+{"id": 656, "text": "user: Hi, I was wondering if you need to cancel textbooks and other materials if or have you received the help?"}
+{"id": 657, "text": "user: how will you give me my financial aid?"}
+{"id": 658, "text": "user: can you give me an idea of how much aid I can get"}
+{"id": 659, "text": "user: What if I can't make my monthly payment?"}
+{"id": 660, "text": "user: I need help since my TPD registration request is denied"}
+{"id": 661, "text": "user: If I am totally and permanently disabled, can I qualify for a discharge of my federal student loans?"}
